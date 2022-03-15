@@ -6,5 +6,5 @@ Sorting algorithms used:
 5. QuickSort
 6. ShellSort (shell sequence, knuth sequence)
 
-Graphic comparison of results posted in "sort_comparison.docx"
+Graphic comparison of results posted in "sort_comparison.docx", posted on 14.03
 Updated version in "sort_comparison_updated.docx", posted on 15.03
