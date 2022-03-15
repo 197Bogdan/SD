@@ -42,6 +42,11 @@ void Merge(vector<int> &v, int st, int dr, int mij)
 
 void MergeSort(vector<int> &v, int st, int dr)
 {
+    if (dr - st + 1 > 10000000)
+    {
+        cout << "Input too large." << endl;
+        return;
+    }
     if (st < dr)
     {
         long long mij = (st + dr) / 2;
