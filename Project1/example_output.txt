@@ -1,0 +1,276 @@
+Numar elemente: 1000  Valoare maxima: 1000
+Timp generare random: 0.001879
+Timp STD sort: 4.5e-05
+Este sortat? 1
+Timp CountingSort: 1.4e-05
+Este sortat? 1
+Timp MergeSort: 0.00036
+Este sortat? 1
+Timp ShellSort: 5.8e-05
+Este sortat? 1
+Timp RadixSort 2^16: 0.000478
+Este sortat? 1
+Timp RadixSort 10: 0.00011
+Este sortat? 1
+Timp RadixSort 2^8: 4.1e-05
+Este sortat? 1
+Timp ShellSort k sequence: 5.5e-05
+Este sortat? 1
+Timp QuickSort: 4.1e-05
+Este sortat? 1
+
+
+
+Numar elemente: 1000  Valoare maxima: 1000000
+Timp generare random: 3.8e-05
+Timp STD sort: 3.9e-05
+Este sortat? 1
+Timp CountingSort: 0.003582
+Este sortat? 1
+Timp MergeSort: 0.000468
+Este sortat? 1
+Timp ShellSort: 7.9e-05
+Este sortat? 1
+Timp RadixSort 2^16: 0.000401
+Este sortat? 1
+Timp RadixSort 10: 0.000167
+Este sortat? 1
+Timp RadixSort 2^8: 6.6e-05
+Este sortat? 1
+Timp ShellSort k sequence: 7e-05
+Este sortat? 1
+Timp QuickSort: 5e-05
+Este sortat? 1
+
+
+
+Numar elemente: 1000  Valoare maxima: 100000000
+Timp generare random: 4.1e-05
+Timp STD sort: 3.8e-05
+Este sortat? 1
+Timp CountingSort: 0.327239
+Este sortat? 1
+Timp MergeSort: 0.000752
+Este sortat? 1
+Timp ShellSort: 7.7e-05
+Este sortat? 1
+Timp RadixSort 2^16: 0.000626
+Este sortat? 1
+Timp RadixSort 10: 0.000207
+Este sortat? 1
+Timp RadixSort 2^8: 0.000197
+Este sortat? 1
+Timp ShellSort k sequence: 0.000167
+Este sortat? 1
+Timp QuickSort: 5e-05
+Este sortat? 1
+
+
+
+Numar elemente: 1000000  Valoare maxima: 1000
+Timp generare random: 0.024769
+Timp STD sort: 0.050028
+Este sortat? 1
+Timp CountingSort: 0.004146
+Este sortat? 1
+Timp MergeSort: 0.774018
+Este sortat? 1
+Timp ShellSort: 0.170871
+Este sortat? 1
+Timp RadixSort 2^16: 0.021078
+Este sortat? 1
+Timp RadixSort 10: 0.07677
+Este sortat? 1
+Timp RadixSort 2^8: 0.035323
+Este sortat? 1
+Timp ShellSort k sequence: 0.147581
+Este sortat? 1
+Timp QuickSort: 0.059687
+Este sortat? 1
+
+
+
+Numar elemente: 1000000  Valoare maxima: 1000000
+Timp generare random: 0.020284
+Timp STD sort: 0.096752
+Este sortat? 1
+Timp CountingSort: 0.012531
+Este sortat? 1
+Timp MergeSort: 0.662224
+Este sortat? 1
+Timp ShellSort: 0.241126
+Este sortat? 1
+Timp RadixSort 2^16: 0.046042
+Este sortat? 1
+Timp RadixSort 10: 0.135092
+Este sortat? 1
+Timp RadixSort 2^8: 0.062861
+Este sortat? 1
+Timp ShellSort k sequence: 0.199352
+Este sortat? 1
+Timp QuickSort: 0.085039
+Este sortat? 1
+
+
+
+Numar elemente: 1000000  Valoare maxima: 100000000
+Timp generare random: 0.016869
+Timp STD sort: 0.092136
+Este sortat? 1
+Timp CountingSort: 0.352885
+Este sortat? 1
+Timp MergeSort: 0.708655
+Este sortat? 1
+Timp ShellSort: 0.241723
+Este sortat? 1
+Timp RadixSort 2^16: 0.048971
+Este sortat? 1
+Timp RadixSort 10: 0.182474
+Este sortat? 1
+Timp RadixSort 2^8: 0.090884
+Este sortat? 1
+Timp ShellSort k sequence: 0.220456
+Este sortat? 1
+Timp QuickSort: 0.089668
+Este sortat? 1
+
+
+
+Numar elemente: 10000000  Valoare maxima: 1000
+Timp generare random: 0.206554
+Timp STD sort: 0.62052
+Este sortat? 1
+Timp CountingSort: 0.041923
+Este sortat? 1
+Timp MergeSort: 6.61024
+Este sortat? 1
+Timp ShellSort: 1.78864
+Este sortat? 1
+Timp RadixSort 2^16: 0.173516
+Este sortat? 1
+Timp RadixSort 10: 0.66976
+Este sortat? 1
+Timp RadixSort 2^8: 0.357428
+Este sortat? 1
+Timp ShellSort k sequence: 1.49358
+Este sortat? 1
+Timp QuickSort: 0.563563
+Este sortat? 1
+
+
+
+Numar elemente: 10000000  Valoare maxima: 1000000
+Timp generare random: 0.191795
+Timp STD sort: 0.940638
+Este sortat? 1
+Timp CountingSort: 0.034271
+Este sortat? 1
+Timp MergeSort: 6.12821
+Este sortat? 1
+Timp ShellSort: 2.89401
+Este sortat? 1
+Timp RadixSort 2^16: 0.447753
+Este sortat? 1
+Timp RadixSort 10: 1.31737
+Este sortat? 1
+Timp RadixSort 2^8: 0.550054
+Este sortat? 1
+Timp ShellSort k sequence: 2.7181
+Este sortat? 1
+Timp QuickSort: 0.895776
+Este sortat? 1
+
+
+
+Numar elemente: 10000000  Valoare maxima: 100000000
+Timp generare random: 0.218355
+Timp STD sort: 1.04332
+Este sortat? 1
+Timp CountingSort: 0.452619
+Este sortat? 1
+Timp MergeSort: 6.3655
+Este sortat? 1
+Timp ShellSort: 2.99539
+Este sortat? 1
+Timp RadixSort 2^16: 0.442014
+Este sortat? 1
+Timp RadixSort 10: 1.36098
+Este sortat? 1
+Timp RadixSort 2^8: 0.690967
+Este sortat? 1
+Timp ShellSort k sequence: 2.90446
+Este sortat? 1
+Timp QuickSort: 0.960568
+Este sortat? 1
+
+
+
+Numar elemente: 100000000  Valoare maxima: 1000
+Timp generare random: 2.14857
+Timp STD sort: 4.24363
+Este sortat? 1
+Timp CountingSort: 0.389439
+Este sortat? 1
+Input too large.
+Timp MergeSort: 0.000502
+Este sortat? 0
+Timp ShellSort: 21.9639
+Este sortat? 1
+Timp RadixSort 2^16: 2.39096
+Este sortat? 1
+Timp RadixSort 10: 7.42865
+Este sortat? 1
+Timp RadixSort 2^8: 3.6809
+Este sortat? 1
+Timp ShellSort k sequence: 19.1257
+Este sortat? 1
+Timp QuickSort: 5.78783
+Este sortat? 1
+
+
+
+Numar elemente: 100000000  Valoare maxima: 1000000
+Timp generare random: 2.46281
+Timp STD sort: 9.15413
+Este sortat? 1
+Timp CountingSort: 0.378536
+Este sortat? 1
+Input too large.
+Timp MergeSort: 0.000221
+Este sortat? 0
+Timp ShellSort: 43.1033
+Este sortat? 1
+Timp RadixSort 2^16: 5.79747
+Este sortat? 1
+Timp RadixSort 10: 12.8682
+Este sortat? 1
+Timp RadixSort 2^8: 5.75034
+Este sortat? 1
+Timp ShellSort k sequence: 42.6117
+Este sortat? 1
+Timp QuickSort: 9.28802
+Este sortat? 1
+
+
+
+Numar elemente: 100000000  Valoare maxima: 100000000
+Timp generare random: 2.11013
+Timp STD sort: 11.9602
+Este sortat? 1
+Timp CountingSort: 1.27919
+Este sortat? 1
+Input too large.
+Timp MergeSort: 0.000193
+Este sortat? 0
+Timp ShellSort: 45.0294
+Este sortat? 1
+Timp RadixSort 2^16: 5.32033
+Este sortat? 1
+Timp RadixSort 10: 14.6494
+Este sortat? 1
+Timp RadixSort 2^8: 7.50951
+Este sortat? 1
+Timp ShellSort k sequence: 46.5827
+Este sortat? 1
+Timp QuickSort: 10.9723
+Este sortat? 1
